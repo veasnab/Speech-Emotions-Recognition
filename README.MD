@@ -2,10 +2,7 @@
 
 You can download the Emotional Speech Audio Dataset:  
 [RAVDESS Emotional Speech Audio Dataset](https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio)
-
-You can also check out the model here:  
-[2D CNN Model + XGBoost Model](https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio)
-
+ 
 The models were derived from:  
 ### Speech Emotion Classification using Ensemble Models with MFCC  
 Meera Mohan, P. Dhanalakshmi, R. Satheesh Kumar  
